@@ -36,6 +36,7 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 
+
 #### Screenshot
 
 ![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/cube.png)
