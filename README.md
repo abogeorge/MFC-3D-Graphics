@@ -14,16 +14,41 @@
 -------------
 ## House
 #### Controls
+* Arrow Keys - Move the figure
+* + and - Keys - Zoom In and Out
+* Q and A Keys - X axis Rotation
+* W and S Keys - Y axis Rotation
+* E and D Keys - Z axis Rotation
 #### Screenshot
 ## Cube
 #### Controls
+* Arrow Keys - Move the figure
+* + and - Keys - Zoom In and Out
+* Q and A Keys - X axis Rotation
+* W and S Keys - Y axis Rotation
+* E and D Keys - Z axis Rotation
 #### Screenshot
 ## Pyramid
 #### Controls
+* Arrow Keys - Move the figure
+* + and - Keys - Zoom In and Out
+* Q and A Keys - X axis Rotation
+* W and S Keys - Y axis Rotation
+* E and D Keys - Z axis Rotation
 #### Screenshot
 ## Spiral
 #### Controls
+* Arrow Keys - Move the figure
+* + and - Keys - Zoom In and Out
+* Q and A Keys - X axis Rotation
+* W and S Keys - Y axis Rotation
+* E and D Keys - Z axis Rotation
 #### Screenshot
 ## Sphere
 #### Controls
+* Arrow Keys - Move the figure
+* + and - Keys - Zoom In and Out
+* Q and A Keys - X axis Rotation
+* W and S Keys - Y axis Rotation
+* E and D Keys - Z axis Rotation
 #### Screenshot
