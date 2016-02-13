@@ -20,6 +20,7 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 #### Screenshot
+![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/house.png)
 ## Cube
 #### Controls
 * Arrow Keys - Move the figure
@@ -28,6 +29,7 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 #### Screenshot
+![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/cube.png)
 ## Pyramid
 #### Controls
 * Arrow Keys - Move the figure
@@ -36,6 +38,7 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 #### Screenshot
+![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/pyramid.png)
 ## Spiral
 #### Controls
 * Arrow Keys - Move the figure
@@ -44,6 +47,7 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 #### Screenshot
+![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/spiral.png)
 ## Sphere
 #### Controls
 * Arrow Keys - Move the figure
@@ -52,3 +56,4 @@
 * W and S Keys - Y axis Rotation
 * E and D Keys - Z axis Rotation
 #### Screenshot
+![alt tag](https://raw.githubusercontent.com/abogeorge/MFC-3D-Graphics/master/imgs/sphere.png)
